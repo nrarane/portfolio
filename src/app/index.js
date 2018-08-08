@@ -9,6 +9,6 @@ class App extends React.Component {
             </div>
         );
     }
-};
+}
 
 render(<App />, window.document.getElementById("app"));
